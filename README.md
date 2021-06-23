@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hiceycook. My full name is Hicey Austin Cook, but you can just call me Austin
+- 👋 Hi, I’m @hiceycook. My full name is Hicey Austin Cook, but you can call me Austin
 - 👀 I’m interested in: Web Development, Financial Markets, Program Trading
 - 🌱 I’m currently learning: Vanilla Js, MERN 
 - 💞️ I’m looking to collaborate on 
