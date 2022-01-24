@@ -1,7 +1,7 @@
 -  Hi, I’m @hiceycook. My full name is Hicey Austin Cook, but you can call me Austin
 -  I’m interested in: Web Development, Product Management, Financial Markets and Currencies, Global Media
 -  I’m currently learning: MERN
--  Portfolio: [Hicey.Me](https://hicey.me)
+-  Personal Site: [Hicey.Me](https://hicey.me)
 -  How to reach me: hiceycook@gmail.com
 
 <!---
